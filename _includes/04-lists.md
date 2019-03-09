@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Contributing to open source projects with interesting ideas
+- Learning new things
+- Attending and listening to conference talks
+- Pretty women who are self-aware
+- Living life at its best
